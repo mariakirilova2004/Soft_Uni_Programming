@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "reIilE7KrITDcWvXA0gY8a41mcurB/mfN1uTuCuHrR9AWLieBp/PNE5NmHFUDfWSjdMCa7lwplfiOTomIcPOSQ==",
+  "success": true,
+  "projectFilePath": "D:\\SoftUni Programming\\Advanced\\C# OOP\\Reflection and Attributes\\ReflectionAndAttributes\\ValidationAttributes\\ValidationAttributes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\User\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
