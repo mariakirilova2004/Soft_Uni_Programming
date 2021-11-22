@@ -1,0 +1,7 @@
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\Text Processing\zad1\TextProcessing\bin\Debug\TextProcessing.exe.config
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\Text Processing\zad1\TextProcessing\bin\Debug\TextProcessing.exe
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\Text Processing\zad1\TextProcessing\bin\Debug\TextProcessing.pdb
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\Text Processing\zad1\TextProcessing\obj\Debug\TextProcessing.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\Text Processing\zad1\TextProcessing\obj\Debug\TextProcessing.exe
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\Text Processing\zad1\TextProcessing\obj\Debug\TextProcessing.pdb
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\Text Processing\zad1\TextProcessing\obj\Debug\TextProcessing.csprojAssemblyReference.cache
