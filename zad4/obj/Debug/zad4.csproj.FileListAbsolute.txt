@@ -1,6 +1,0 @@
-C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Functional Programming\zad4\bin\Debug\zad4.exe.config
-C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Functional Programming\zad4\bin\Debug\zad4.exe
-C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Functional Programming\zad4\bin\Debug\zad4.pdb
-C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Functional Programming\zad4\obj\Debug\zad4.csproj.CoreCompileInputs.cache
-C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Functional Programming\zad4\obj\Debug\zad4.exe
-C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Functional Programming\zad4\obj\Debug\zad4.pdb
