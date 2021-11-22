@@ -1,0 +1,7 @@
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\Associative Arrays\zad1\Associative Arrays\bin\Debug\Associative Arrays.exe.config
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\Associative Arrays\zad1\Associative Arrays\bin\Debug\Associative Arrays.exe
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\Associative Arrays\zad1\Associative Arrays\bin\Debug\Associative Arrays.pdb
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\Associative Arrays\zad1\Associative Arrays\obj\Debug\Associative Arrays.csprojAssemblyReference.cache
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\Associative Arrays\zad1\Associative Arrays\obj\Debug\Associative Arrays.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\Associative Arrays\zad1\Associative Arrays\obj\Debug\Associative Arrays.exe
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\Associative Arrays\zad1\Associative Arrays\obj\Debug\Associative Arrays.pdb
