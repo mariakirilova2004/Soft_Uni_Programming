@@ -1,0 +1,14 @@
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Generics\zad8\bin\Debug\netcoreapp3.1\zad8.exe
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Generics\zad8\bin\Debug\netcoreapp3.1\zad8.deps.json
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Generics\zad8\bin\Debug\netcoreapp3.1\zad8.runtimeconfig.json
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Generics\zad8\bin\Debug\netcoreapp3.1\zad8.runtimeconfig.dev.json
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Generics\zad8\bin\Debug\netcoreapp3.1\zad8.dll
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Generics\zad8\bin\Debug\netcoreapp3.1\zad8.pdb
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Generics\zad8\obj\Debug\netcoreapp3.1\zad8.csproj.AssemblyReference.cache
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Generics\zad8\obj\Debug\netcoreapp3.1\zad8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Generics\zad8\obj\Debug\netcoreapp3.1\zad8.AssemblyInfoInputs.cache
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Generics\zad8\obj\Debug\netcoreapp3.1\zad8.AssemblyInfo.cs
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Generics\zad8\obj\Debug\netcoreapp3.1\zad8.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Generics\zad8\obj\Debug\netcoreapp3.1\zad8.dll
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Generics\zad8\obj\Debug\netcoreapp3.1\zad8.pdb
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Generics\zad8\obj\Debug\netcoreapp3.1\zad8.genruntimeconfig.cache
