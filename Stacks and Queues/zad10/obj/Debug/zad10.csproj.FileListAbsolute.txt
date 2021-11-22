@@ -1,0 +1,7 @@
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Stacks and Queues\zad10\bin\Debug\zad10.exe.config
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Stacks and Queues\zad10\bin\Debug\zad10.exe
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Stacks and Queues\zad10\bin\Debug\zad10.pdb
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Stacks and Queues\zad10\obj\Debug\zad10.csproj.AssemblyReference.cache
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Stacks and Queues\zad10\obj\Debug\zad10.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Stacks and Queues\zad10\obj\Debug\zad10.exe
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Stacks and Queues\zad10\obj\Debug\zad10.pdb
