@@ -1,0 +1,7 @@
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Implementing Stack and Queue\Implementing Stack and Queue\bin\Debug\Implementing Stack and Queue.exe.config
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Implementing Stack and Queue\Implementing Stack and Queue\bin\Debug\Implementing Stack and Queue.exe
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Implementing Stack and Queue\Implementing Stack and Queue\bin\Debug\Implementing Stack and Queue.pdb
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\Implementing Stack and Queue.csproj.AssemblyReference.cache
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\Implementing Stack and Queue.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\Implementing Stack and Queue.exe
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Implementing Stack and Queue\Implementing Stack and Queue\obj\Debug\Implementing Stack and Queue.pdb
