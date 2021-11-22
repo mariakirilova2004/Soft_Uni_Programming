@@ -1,0 +1,13 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace Wild_Farm
+{
+    public class Fruit : Food
+    {
+        protected Fruit(int quantity) : base(quantity)
+        {
+        }
+    }
+}
