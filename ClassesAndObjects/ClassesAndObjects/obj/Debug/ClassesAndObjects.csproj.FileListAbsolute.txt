@@ -1,0 +1,7 @@
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe.config
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.exe
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\ClassesAndObjects\ClassesAndObjects\bin\Debug\ClassesAndObjects.pdb
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csprojAssemblyReference.cache
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.exe
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\ClassesAndObjects\ClassesAndObjects\obj\Debug\ClassesAndObjects.pdb
