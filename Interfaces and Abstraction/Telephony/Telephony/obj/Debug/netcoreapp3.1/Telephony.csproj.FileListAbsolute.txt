@@ -1,0 +1,14 @@
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# OOP\Interfaces and Abstraction\Telephony\Telephony\bin\Debug\netcoreapp3.1\Telephony.exe
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# OOP\Interfaces and Abstraction\Telephony\Telephony\bin\Debug\netcoreapp3.1\Telephony.deps.json
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# OOP\Interfaces and Abstraction\Telephony\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.json
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# OOP\Interfaces and Abstraction\Telephony\Telephony\bin\Debug\netcoreapp3.1\Telephony.runtimeconfig.dev.json
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# OOP\Interfaces and Abstraction\Telephony\Telephony\bin\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# OOP\Interfaces and Abstraction\Telephony\Telephony\bin\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# OOP\Interfaces and Abstraction\Telephony\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.AssemblyReference.cache
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# OOP\Interfaces and Abstraction\Telephony\Telephony\obj\Debug\netcoreapp3.1\Telephony.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# OOP\Interfaces and Abstraction\Telephony\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfoInputs.cache
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# OOP\Interfaces and Abstraction\Telephony\Telephony\obj\Debug\netcoreapp3.1\Telephony.AssemblyInfo.cs
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# OOP\Interfaces and Abstraction\Telephony\Telephony\obj\Debug\netcoreapp3.1\Telephony.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# OOP\Interfaces and Abstraction\Telephony\Telephony\obj\Debug\netcoreapp3.1\Telephony.dll
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# OOP\Interfaces and Abstraction\Telephony\Telephony\obj\Debug\netcoreapp3.1\Telephony.pdb
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# OOP\Interfaces and Abstraction\Telephony\Telephony\obj\Debug\netcoreapp3.1\Telephony.genruntimeconfig.cache
