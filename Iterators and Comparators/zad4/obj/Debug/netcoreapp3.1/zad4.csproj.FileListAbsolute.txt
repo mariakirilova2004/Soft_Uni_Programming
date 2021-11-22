@@ -1,0 +1,14 @@
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Iterators and Comparators\zad4\bin\Debug\netcoreapp3.1\zad4.exe
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Iterators and Comparators\zad4\bin\Debug\netcoreapp3.1\zad4.deps.json
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Iterators and Comparators\zad4\bin\Debug\netcoreapp3.1\zad4.runtimeconfig.json
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Iterators and Comparators\zad4\bin\Debug\netcoreapp3.1\zad4.runtimeconfig.dev.json
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Iterators and Comparators\zad4\bin\Debug\netcoreapp3.1\zad4.dll
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Iterators and Comparators\zad4\bin\Debug\netcoreapp3.1\zad4.pdb
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Iterators and Comparators\zad4\obj\Debug\netcoreapp3.1\zad4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Iterators and Comparators\zad4\obj\Debug\netcoreapp3.1\zad4.AssemblyInfoInputs.cache
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Iterators and Comparators\zad4\obj\Debug\netcoreapp3.1\zad4.AssemblyInfo.cs
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Iterators and Comparators\zad4\obj\Debug\netcoreapp3.1\zad4.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Iterators and Comparators\zad4\obj\Debug\netcoreapp3.1\zad4.dll
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Iterators and Comparators\zad4\obj\Debug\netcoreapp3.1\zad4.pdb
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Iterators and Comparators\zad4\obj\Debug\netcoreapp3.1\zad4.genruntimeconfig.cache
+C:\Users\User\Documents\SoftUni Programming\Advanced\C# Advanced\Iterators and Comparators\zad4\obj\Debug\netcoreapp3.1\zad4.csproj.AssemblyReference.cache
