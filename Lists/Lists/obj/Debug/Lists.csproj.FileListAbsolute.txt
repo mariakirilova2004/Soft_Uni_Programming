@@ -1,0 +1,7 @@
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\Lists\Lists\bin\Debug\Lists.exe.config
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\Lists\Lists\bin\Debug\Lists.exe
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\Lists\Lists\bin\Debug\Lists.pdb
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\Lists\Lists\obj\Debug\Lists.csprojAssemblyReference.cache
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\Lists\Lists\obj\Debug\Lists.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\Lists\Lists\obj\Debug\Lists.exe
+C:\Users\User\Documents\SoftUni Programming\Fundamentals\Lists\Lists\obj\Debug\Lists.pdb
