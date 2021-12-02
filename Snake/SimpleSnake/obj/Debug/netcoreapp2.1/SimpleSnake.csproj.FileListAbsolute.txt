@@ -1,0 +1,13 @@
+D:\SoftUni Programming\Advanced\C# OOP\Snake\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.deps.json
+D:\SoftUni Programming\Advanced\C# OOP\Snake\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.json
+D:\SoftUni Programming\Advanced\C# OOP\Snake\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.dev.json
+D:\SoftUni Programming\Advanced\C# OOP\Snake\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.dll
+D:\SoftUni Programming\Advanced\C# OOP\Snake\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.pdb
+D:\SoftUni Programming\Advanced\C# OOP\Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csproj.AssemblyReference.cache
+D:\SoftUni Programming\Advanced\C# OOP\Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni Programming\Advanced\C# OOP\Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfoInputs.cache
+D:\SoftUni Programming\Advanced\C# OOP\Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfo.cs
+D:\SoftUni Programming\Advanced\C# OOP\Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csproj.CoreCompileInputs.cache
+D:\SoftUni Programming\Advanced\C# OOP\Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.dll
+D:\SoftUni Programming\Advanced\C# OOP\Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.pdb
+D:\SoftUni Programming\Advanced\C# OOP\Snake\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.genruntimeconfig.cache
