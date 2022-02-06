@@ -1,0 +1,14 @@
+{
+  "name": "unit-testing-and-error-handling---exercise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "mathEnforcer.js",
+  "scripts": {
+    "test": "mocha ./mathEnforcer.test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.3.6"
+  }
+}
