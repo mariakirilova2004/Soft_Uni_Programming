@@ -1,0 +1,13 @@
+C:\Maria\SoftUni Programming\Advanced\C# Entity Framework Core\JSON-Processing\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.deps.json
+C:\Maria\SoftUni Programming\Advanced\C# Entity Framework Core\JSON-Processing\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.json
+C:\Maria\SoftUni Programming\Advanced\C# Entity Framework Core\JSON-Processing\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.runtimeconfig.dev.json
+C:\Maria\SoftUni Programming\Advanced\C# Entity Framework Core\JSON-Processing\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.dll
+C:\Maria\SoftUni Programming\Advanced\C# Entity Framework Core\JSON-Processing\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\bin\Debug\netcoreapp2.1\ProductShop.pdb
+C:\Maria\SoftUni Programming\Advanced\C# Entity Framework Core\JSON-Processing\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.AssemblyReference.cache
+C:\Maria\SoftUni Programming\Advanced\C# Entity Framework Core\JSON-Processing\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Maria\SoftUni Programming\Advanced\C# Entity Framework Core\JSON-Processing\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfoInputs.cache
+C:\Maria\SoftUni Programming\Advanced\C# Entity Framework Core\JSON-Processing\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.AssemblyInfo.cs
+C:\Maria\SoftUni Programming\Advanced\C# Entity Framework Core\JSON-Processing\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.csproj.CoreCompileInputs.cache
+C:\Maria\SoftUni Programming\Advanced\C# Entity Framework Core\JSON-Processing\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.dll
+C:\Maria\SoftUni Programming\Advanced\C# Entity Framework Core\JSON-Processing\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.pdb
+C:\Maria\SoftUni Programming\Advanced\C# Entity Framework Core\JSON-Processing\08. JSON-Processing-Product-Shop-Skeleton\ProductShop\obj\Debug\netcoreapp2.1\ProductShop.genruntimeconfig.cache
