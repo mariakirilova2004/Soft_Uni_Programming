@@ -1,0 +1,15 @@
+C:\Maria\SoftUni Programming\Advanced\C# WEB\SUHttpServer\SUHttpServer\bin\Debug\net6.0\SUHttpServer.exe
+C:\Maria\SoftUni Programming\Advanced\C# WEB\SUHttpServer\SUHttpServer\bin\Debug\net6.0\SUHttpServer.deps.json
+C:\Maria\SoftUni Programming\Advanced\C# WEB\SUHttpServer\SUHttpServer\bin\Debug\net6.0\SUHttpServer.runtimeconfig.json
+C:\Maria\SoftUni Programming\Advanced\C# WEB\SUHttpServer\SUHttpServer\bin\Debug\net6.0\SUHttpServer.dll
+C:\Maria\SoftUni Programming\Advanced\C# WEB\SUHttpServer\SUHttpServer\bin\Debug\net6.0\ref\SUHttpServer.dll
+C:\Maria\SoftUni Programming\Advanced\C# WEB\SUHttpServer\SUHttpServer\bin\Debug\net6.0\SUHttpServer.pdb
+C:\Maria\SoftUni Programming\Advanced\C# WEB\SUHttpServer\SUHttpServer\obj\Debug\net6.0\SUHttpServer.csproj.AssemblyReference.cache
+C:\Maria\SoftUni Programming\Advanced\C# WEB\SUHttpServer\SUHttpServer\obj\Debug\net6.0\SUHttpServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Maria\SoftUni Programming\Advanced\C# WEB\SUHttpServer\SUHttpServer\obj\Debug\net6.0\SUHttpServer.AssemblyInfoInputs.cache
+C:\Maria\SoftUni Programming\Advanced\C# WEB\SUHttpServer\SUHttpServer\obj\Debug\net6.0\SUHttpServer.AssemblyInfo.cs
+C:\Maria\SoftUni Programming\Advanced\C# WEB\SUHttpServer\SUHttpServer\obj\Debug\net6.0\SUHttpServer.csproj.CoreCompileInputs.cache
+C:\Maria\SoftUni Programming\Advanced\C# WEB\SUHttpServer\SUHttpServer\obj\Debug\net6.0\SUHttpServer.dll
+C:\Maria\SoftUni Programming\Advanced\C# WEB\SUHttpServer\SUHttpServer\obj\Debug\net6.0\ref\SUHttpServer.dll
+C:\Maria\SoftUni Programming\Advanced\C# WEB\SUHttpServer\SUHttpServer\obj\Debug\net6.0\SUHttpServer.pdb
+C:\Maria\SoftUni Programming\Advanced\C# WEB\SUHttpServer\SUHttpServer\obj\Debug\net6.0\SUHttpServer.genruntimeconfig.cache
