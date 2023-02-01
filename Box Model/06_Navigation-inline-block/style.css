@@ -1,0 +1,51 @@
+html{
+    padding-left: 50px;
+    font-family: Helvetica, sans-serif;
+}
+
+header{
+    display: flex;
+}
+
+header h1{
+    text-transform: uppercase;
+    padding-top: 50px;
+    margin-bottom: 10px;
+    display: inline-block;
+}
+
+
+nav{
+    display: inline-block;
+    margin-top: 60px;
+    margin-left: 50px;
+}
+
+nav ul{
+    display: flex;
+    list-style-type: none;
+}
+
+nav ul li{
+    padding: 10px;
+    display: inline-block;
+}
+
+nav ul li a{
+
+    text-decoration: none;
+    text-transform: none;
+    color: rgb(53, 144, 53);
+    font-size: small;
+}
+
+hr{
+    display: block;
+    height: 2px;
+    background: black;
+}
+
+main h1{
+    font-family: serif;
+    font-weight: lighter;
+}
