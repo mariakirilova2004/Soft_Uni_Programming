@@ -1,0 +1,107 @@
+body{
+    background: rgb(238, 238, 238);
+    padding: 20px 60px;
+}
+
+.header{
+    position: realtive;
+}
+
+.header p{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 25px;
+    display: inline-block;
+    margin-bottom: 5px;
+}
+
+.header nav{
+    top: 30px;
+    right: 60px;
+    position: absolute;
+    display: inline-block;
+}
+
+.header ul li{
+    display: inline-block;
+    padding: 0 10px;
+}
+
+a{
+    list-style: none;
+    text-decoration: none;
+    color: rgb(0, 102, 0);
+    box-shadow: rgba(0, 0, 0, 0.25);
+}
+
+h1, h2, h3{
+    font-family: Georgia, serif;
+    font-size: 1em/1.2;
+    font-weight: lighter;
+}
+
+.section1 p{
+    display: inline;
+}
+
+img{
+    border-style: double;
+    border-width: 7px;
+    background-color: rgb(255, 255, 255);
+    margin: 10px 10px;
+    margin-top: 0px;
+}
+
+img:nth-child(1){
+    display: inline;
+    float: right;
+}
+
+img:nth-child(2){
+    display: inline;
+    float: left;
+}
+
+.section2 div{
+    display: flex;
+}
+
+.section2 p{
+    display: block;
+}
+
+.section2 div{
+    width: 100%;
+}
+
+.section2 div p{
+    margin-right: 20px;
+    width: 100%;
+}
+
+.section2 div div{
+    display: inline-block;
+    font-style: italic;
+}
+
+.section2 div div p{
+    position: relative;
+    right: -200px;
+}
+
+blockquote{
+    font-family: Georgia, serif;
+    display: inline-block;
+}
+
+main{
+    display: inline-block;
+    width: 70%;
+}
+
+aside{
+    display: inline;
+    width: 20%;;
+    float: right;
+    margin-left: 10px;
+}

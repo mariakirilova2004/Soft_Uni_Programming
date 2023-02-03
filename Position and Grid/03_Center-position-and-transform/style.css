@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(238, 238, 238);
+}
+
+.card{
+    background-color: rgb(255, 255, 255);
+    width: 400px;
+    height: 450px;
+    margin: 150px 500px;
+    box-shadow: 2px 2px 2px rgb(166, 163, 163);
+}
+
+div:nth-child(2){
+    padding: 20px 20px;
+}
+
+.card a{
+    background-color: rgb(0, 153, 0);
+    text-decoration: none;
+    color: white;
+    font-size: 14px;
+    padding: 5px 10px;
+    margin: 40px auto;
+    float: right;
+}
+
+h3{
+    font-family: Georgia, serif;
+    font-size: 1em/1.2;
+    margin: auto 5px;
+}
+
+p{
+    margin: 10px 5px;
+}
+
+img{
+    width: 100%;
+}
