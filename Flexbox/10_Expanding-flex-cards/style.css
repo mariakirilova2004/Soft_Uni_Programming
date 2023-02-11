@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(238, 238, 238);
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+section.container{
+    display: flex;
+    column-gap: 10px;
+}
+
+img{
+    height: 150px;
+    width: 50px;
+    object-fit: cover;
+    box-shadow: 1px 1px 10px grey;
+    border-radius: 4px;
+}
+
+img:hover{
+    height: 150px;
+    width: fit-content;
+    transition: all 0.5s ease-out;
+}
+
