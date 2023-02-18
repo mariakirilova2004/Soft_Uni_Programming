@@ -1,0 +1,69 @@
+/*
+#776dfe - purple
+#f6f8f9 - backrgorund gray
+#8d969d - p
+#273240 - headings
+*/
+
+body{
+    background-color: #f6f8f9;
+    font-family: Helvetica;
+}
+
+div.text{
+    position: absolute;
+    color: #273240;
+    display: flex;
+    flex-wrap: wrap;
+    width: 750px;
+    row-gap: 0px;
+    top: 300px;
+    margin-left: 100px;
+}
+
+div.text h6{
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+div.text h1{
+    margin: 0;
+    font-weight: 10;
+    font-size: 60px;
+}
+
+div.text p{
+    margin-top: 25px;
+    color: #8d969d;
+    font-size: 35px;
+}
+
+button{
+    margin-top: 20px;
+    width: 270px;
+    height: 70px;
+    font-weight:600;
+    font-size: 30px;
+    border-radius: 3px;
+}
+
+button.purpleBtn{
+    color: #f6f8f9;
+    background-color: #776dfe;
+    margin-right: 20px;
+    border-color: #776dfe;
+}
+
+button.whiteBtn{
+    color: #273240;
+    border: 3px solid #273240;
+    background-color: #f6f8f9;
+}
+
+img{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 800px;
+    margin-right: 100px;
+}
