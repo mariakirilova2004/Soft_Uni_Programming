@@ -1,0 +1,101 @@
+@media(width<=600px){
+    div.home-left, div.home-right, div.home-container01{
+        display: none;
+    }
+
+    span.navbar-logo-title{
+        margin-left: 0px;
+    }
+
+    div.home-hero1{
+        justify-content: center;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        align-items: center;
+    }
+
+    div.home-info, div.home-container04, div.home-btn-group{
+        justify-content: center;
+    }
+
+    div.home-hero1 img{
+        margin-top: 20px;
+    }
+
+    div.home-cards-container{
+        width: 100%;
+        justify-content: space-around;
+    }
+
+    div.category-card-category-card{
+        width: 40%;
+    }
+
+    div.category-card-category-card:nth-child(7){
+        width: 100%;
+        align-items: flex-start;
+    }
+    div.category-card-category-card:nth-child(7) img{
+        width: 44%;
+        align-items: flex-start;
+    }
+    div.category-card-category-card:nth-child(7) span{
+        margin-left: 10%;
+    }
+
+    div.category-card-category-card img{
+        width: 100%;
+        height: 250px;
+        object-fit: fill;
+    }
+
+    div.home-full-width-banner{
+        padding-top: 40px;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    div.home-content{
+        margin-bottom: 10px;
+        margin-top: 30px;
+        width: 100%;
+    }
+
+    div.home-btn{
+        margin-bottom: 40px;
+    }
+
+    div.home-full-width-banner img{
+        width: 100%;
+    }
+
+    span.home-text30{
+        width: 80%;
+        margin-bottom: 10px;
+    }
+
+    div.blog-post-card-blog-post-card{
+        max-width: max-content;
+    }
+
+    .home-main{
+        padding-bottom: 50px;
+    }
+
+    footer.home-footer1{
+        display: grid;
+        grid-template-areas: 
+        "c10"
+        "c09";
+        row-gap: 20px;
+    }
+
+    div.home-container09{
+        grid-area: c09;
+    }
+
+    div.home-links-container{
+        flex-direction: column;
+    }
+}
